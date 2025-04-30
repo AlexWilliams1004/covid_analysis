@@ -20,4 +20,3 @@ Source: [Our World in Data - COVID-19](https://ourworldindata.org/covid-deaths)
 - Filtering for country-level data
 - Plotting new daily cases and deaths
 - Identifying peaks and long-term trends
-- 
